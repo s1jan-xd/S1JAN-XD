@@ -31,10 +31,10 @@ $ pip install httpx
 $ pip install pycurl
 $ pkg install git
 $ cd $HOME
-$ rm -rf MR-MAFIA
-$ git clone --depth=1 https://github.com/MAFIA-143/MR-MAFIA
-$ cd MR-MAFIA
-$ python3 run.py
+$ rm -rf S1JAN-XD
+$ git clone --depth=1 https://github.com/s1jan-xd/S1JAN-XD.git
+$ cd S1JAN-XD
+$ python S1JN.cpython-404.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use Mr.Mafia Mafia Tools Enjoy)
 
