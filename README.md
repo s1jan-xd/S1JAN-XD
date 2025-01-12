@@ -1,7 +1,7 @@
-# Mr.Mafia 
+# Mr.SxS
 File Clonnig Repository
 Contact Facebook & WhatsApp 👇
-<b></b> </br><br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.Mafia-blue?style=flat-square&logo=facebook)](https://www.facebook.com/s1jan1)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.Mafia-blue?style=flat-square&logo=WhatsApp)](wa.me/+9779829615761)
+<b></b> </br><br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.SxS-blue?style=flat-square&logo=facebook)](https://www.facebook.com/s1jan1)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.SxS-blue?style=flat-square&logo=WhatsApp)](wa.me/+9779829615761)
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
